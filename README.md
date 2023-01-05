@@ -14,4 +14,10 @@ In second presentation we focused on stock prices of different companies and als
 
 ## Technologies
 - **Jupyter Notebook** - notebook used to write a code
-- **Julia 
+- **[Julia](https://julialang.org/) 1.6.1**
+- **[Plots](https://docs.juliaplots.org/latest/tutorial/)**
+- **[DelimitedFiles[(https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)**
+- **[DataFrames](https://dataframes.juliadata.org/stable/)**
+- **[Statistics](https://docs.julialang.org/en/v1/stdlib/Statistics/)**
+- **[CSV](https://csv.juliadata.org/stable/)**
+- **[Dates](https://docs.julialang.org/en/v1/stdlib/Dates/)**
